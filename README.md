@@ -1,6 +1,6 @@
 # Reproducibility Assignment
 
-This GitHub repository contains the data, code, figures and statistical output of the assignment. To reproduce the assignment, please download the entire "PenguinsAssignment" folder, and follow instructions written in "penguins_assignment.r".
+This GitHub repository contains the data, code, figures and statistical output of the assignment. To reproduce the assignment, please download the repository and follow instructions written in "penguins_assignment.r".
 
 _Guide for use:_
 
