@@ -23,7 +23,7 @@
 
 # 1. Initial setup  ----------------------------------------------------------------
 
-# Set the working directory to the downloaded folder "PenguinAssignment".
+# Set the working directory to the subfolder "PenguinAssignment" within the main repository downloaded.
 
 # Loading the packages:
 source("functions/libraries.r")
